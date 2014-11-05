@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'AcademyC';
+    src: url('fonts/academyc/academyc.eot');
+    src: url('fonts/academyc/academyc.eot') format('embedded-opentype'), url('fonts/academyc/academyc.ttf') format('truetype'), url('fonts/academyc/academyc.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AcademyC-Italic';
+    src: url('fonts/academyc-italic/academyc-italic.eot');
+    src: url('fonts/academyc-italic/academyc-italic.eot?#iefix') format('embedded-opentype'),
+    url('fonts/academyc-italic/academyc-italic.ttf') format('truetype'),
+    url('fonts/academyc-italic/academyc-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AcademyC-Bold';
+    src: url('fonts/academyc-bold/academyc-bold.eot');
+    src: url('fonts/academyc-bold/academyc-bold.eot?#iefix') format('embedded-opentype'),
+    url('fonts/academyc-bold/academyc-bold.ttf') format('truetype'),
+    url('fonts/academyc-bold/academyc-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "AvantGardeGothicC-Demi";
+    src: url('fonts/avantgardegothicc-demi/avantgardegothicc-demi.eot');
+    src: url('fonts/avantgardegothicc-demi/avantgardegothicc-demi.eot?#iefix') format('embedded-opentype'),
+    url('fonts/avantgardegothicc-demi/avantgardegothicc-demi.ttf') format('truetype'),
+    url('fonts/avantgardegothicc-demi/avantgardegothicc-demi.eot') format('embedded-opentype'),
+    url('fonts/avantgardegothicc-demi/avantgardegothicc-demi.woff') format('woff');
+}
