@@ -14,7 +14,7 @@
 	 <preference name="orientation" value="landscape" />
 	 <preference name="fullscreen" value="true" />
 	 <preference name="DisallowOverscroll" value="true"/>
-	 <gap:platform name="ios" />
+
 	 <gap:plugin name="org.apache.cordova.device" />
 	 <gap:plugin name="org.apache.cordova.dialogs" />
 	 <gap:plugin name="org.apache.cordova.console" version="0.2.7" />
